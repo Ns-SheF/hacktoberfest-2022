@@ -10,7 +10,7 @@ It's very easy. Follow the below steps you need to create your -(maybe)- EXAMPLE
 
 1. Fork this repository by click the Fork button in the top right of this page.
 2. Create a new file and **add** a new Program code in programming languages C++, Python (Note: Program must not be exist already in this repository).Also add litte details about you in starting.
-4.Set the file name with Your-Full-Name.md
+4.Set the file name with Topic/program-name.md
 ### YOUR FULL NAME
 
 - Program Language 
