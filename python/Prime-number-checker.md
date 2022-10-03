@@ -3,7 +3,7 @@
 - Location: Nigeria
 - Github: https://github.com/Ns-SheF
 
-#Prime Number Checker program
+# Prime Number Checker program
 
 number = None
 #set a flag variable
