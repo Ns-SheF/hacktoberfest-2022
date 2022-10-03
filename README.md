@@ -1,4 +1,4 @@
-# Hacktoberfest-2022- Contribute to open source
+# Hacktoberfest-2022- Contribute to open source 
 This repo is specially for beginners who are new to open source.
 
 Create your first Pull Request 👍(PR) and help contributing to open-source and help everyone with this repository.
